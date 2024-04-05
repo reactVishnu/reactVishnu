@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishnu Tiwari</h1>
-<h3 align="center">A passionate Python Backend Developer from India</h3>
+<h3 align="center">A passionate Python Backend Developer</h3>
 <img align="right" alt="coding" width=400 src="https://miro.medium.com/v2/resize:fit:1400/0*IjwqslkWZDHTMK9Y.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reactvishnu&label=Profile%20views&color=0e75b6&style=flat" alt="reactvishnu" /> </p>
